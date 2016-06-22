@@ -285,9 +285,6 @@
 				<version>2.11</version>
 				<configuration>
 					true<*skip>
-				</configuration>
-			</plugin>
-			<plugin>
 				<artifactId>maven-failsafe-plugin</artifactId>
 				<version>2.11</version>
 				<configuration>
